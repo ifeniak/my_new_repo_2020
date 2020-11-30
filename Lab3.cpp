@@ -64,5 +64,7 @@ int main()
         printf("The result is : -1 \n ");
     free(array);
 
+	printf(" jhv");
+
     return 0;
 }
